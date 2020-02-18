@@ -5,7 +5,7 @@ import math # This will import math module
 psa = float(input("What is the polar surface area (PSA/TPSA) in A^2 for your compound?" ))
 logp = float(input("What is the lipophilicity index (logP) for your compound?" ))
 logbb = (0.152*(float(logp)) - 0.0148*(float(psa)) + 0.139) # this will calculate empirical Clark's logBB (blood/brain partition coefficient)
-logbb_1 = (0.155*(float(logp)) - 0.01*(float(psa)) + 0.164) # this will calculate empirical Clark's logBB (blood/brain partition coefficient)
+logbb_1 = (0.155*(float(logp)) - 0.01*(float(psa)) + 0.164) # this will calculate empirical Rishton's logBB (blood/brain partition coefficient)
 print("logBB (Clark) =", logbb) # this will print out the results using Clark's equation
 print("logBB (Rishton) =", logbb_1) # this will print out the results using Rishton's equation
 print("(BBB-)0>logBB>0(BBB+)")
