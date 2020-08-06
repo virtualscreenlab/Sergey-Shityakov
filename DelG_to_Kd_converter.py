@@ -4,7 +4,7 @@ import math # This will import math module
 
 delg = float(input("What is your DelG in kcal/mol?" ))
 R = 1.9872 #cal/K.mol
-T = 310 #in degrees Kelvin
+T = 298.18 #in degrees Kelvin - Body temperature
 Kd_value = math.exp((-delg*1000)/(R*T)) # this will calculate the dissociation constant from the Gibbs free energy of binding
 Kd_value1 = (math.exp((-delg*1000)/(R*T)))*1000000 # this will calculate the dissociation constant from the Gibbs free energy of binding
 Kd_value2 = (math.exp((-delg*1000)/(R*T)))*1000000000 # this will calculate the dissociation constant from the Gibbs free energy of binding
