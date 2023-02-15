@@ -1,0 +1,4 @@
+C1=CC=C(C=C1)C(=O)N=[N+]=[N-]
+C1=CC=C2C(=C1)C(=CN2)C(=O)N=[N+]=[N-]
+CC(=O)N[C@@H]([C@@H](C(=O)OC)N=[N+]=[N-])C(=O)OC
+CCOC(=O)C(CCCN=[N+]=[N-])CC=C(C)C
