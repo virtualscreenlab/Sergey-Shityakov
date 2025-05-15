@@ -5,7 +5,7 @@ Virtual Screening Laboratory is a virtual laboratory designed for rational drug 
 
 ## Repository Details
 - **Author**: Sergey Shityakov
-- **License**: [Add license if applicable, e.g., MIT License]
+- **License**: This project is licensed under the GNU General Public License
 
 ## Features
 - **NeuroClick**: Interactive tool for neural data analysis.
