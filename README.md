@@ -8,6 +8,7 @@ Virtual Screening Laboratory is a laboratory designed for rational drug design a
 - **License**: This project is licensed under the GNU General Public License
 
 ## Features
+- **Loop_refiner**: PyMol tool for AlphaFold model refinement.
 - **NeuroClick**: Interactive tool for neural data analysis.
 - **BSA_calculator.pml**: Buried surface area calculator.
 - **DelG_to_Ki_converter.py**: Converts Gibbs free energy to inhibition constant.
