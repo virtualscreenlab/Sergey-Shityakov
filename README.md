@@ -14,7 +14,7 @@ Virtual Screening Laboratory is a laboratory designed for rational drug design a
 - **IC50_to_pIC50_converter.py**: Converts IC50 to pIC50 values.
 - **Pattern_recognition.py**: Pattern recognition utilities.
 - **Virtual_sequencing_project.zip**: Modeling of shotgun sequencing of DNA plasmids.
-- **log8B.py**: Logarithmic base blood-brain barrier calculations.
+- **logBB.py**: Logarithmic base blood-brain barrier calculations.
 
 ## Installation
 1. Clone the repository:
