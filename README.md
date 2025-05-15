@@ -1,7 +1,7 @@
 # Virtual Screening Laboratory
 
 ## Overview
-Virtual-Screen-Lab is a virtual laboratory designed for rational drug design and discovery, with a focus on the blood-brain barrier. This project, supervised by Prof. Dr. Sergey Shityakov from Würzburg University, Germany, includes a collection of tools and scripts to support cheminformatics, drug design, biomedicine, medicinal chemistry, and blood-brain barrier research.
+Virtual Screening Laboratory is a virtual laboratory designed for rational drug design and discovery, with a focus on the blood-brain barrier. This project, supervised by Prof. Dr. Sergey Shityakov from Würzburg University, Germany, includes a collection of tools and scripts to support cheminformatics, drug design, biomedicine, medicinal chemistry, and blood-brain barrier research.
 
 ## Repository Details
 - **Author**: Sergey Shityakov
@@ -14,7 +14,7 @@ Virtual-Screen-Lab is a virtual laboratory designed for rational drug design and
 - **IC50_to_pIC50_converter.py**: Converts IC50 to pIC50 values.
 - **Pattern_recognition.py**: Pattern recognition utilities.
 - **Virtual_sequencing_project.zip**: Modeling of shotgun sequencing of DNA plasmids.
-- **log8B.py**: Logarithmic base 8 calculations.
+- **log8B.py**: Logarithmic base blood-brain barrier calculations.
 
 ## Installation
 1. Clone the repository:
