@@ -1,7 +1,7 @@
 # Virtual Screening Laboratory
 
 ## Overview
-Virtual Screening Laboratory is a laboratory designed for rational drug design and discovery, with a focus on the blood-brain barrier. This project, supervised by Prof. Dr. Sergey Shityakov from Würzburg University, Germany, includes a collection of tools and scripts to support cheminformatics, drug design, biomedicine, medicinal chemistry, and blood-brain barrier research.
+Virtual Screening Laboratory is a laboratory designed for rational drug design and discovery, with a focus on the blood-brain barrier. This project, supervised by Prof. Dr. Sergey Shityakov, includes a collection of tools and scripts to support cheminformatics, drug design, biomedicine, medicinal chemistry, and blood-brain barrier research.
 
 ## Repository Details
 - **Author**: Sergey Shityakov
